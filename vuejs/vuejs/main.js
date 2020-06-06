@@ -103,7 +103,7 @@ Vue.component('qrcode-scanner', {
 			// Start scanning.
 			var config = { fps: 10 };
 			if (qrBox) {
-				config['qrBox'] = qrBox;
+				config['qrbox'] = parseInt(qrBox);
 			}
 			html5QrCode.start(
 				cameraId,
@@ -137,7 +137,7 @@ Vue.component('qrcode-scanner', {
 			});
 		});
 	}
-})
+});
 
 var app = new Vue({
 	el: '#app',

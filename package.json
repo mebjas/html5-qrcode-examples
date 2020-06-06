@@ -1,0 +1,22 @@
+{
+  "name": "h5qrcode-example",
+  "version": "1.0.0",
+  "description": "examples of using html5-qrcode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mebjas:8a1a6a4bc1bfc4063a884cf43447aa5294e8cb1c@github.com/mebjas/html5-qrcode-examples.git"
+  },
+  "author": "minhazav@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mebjas/html5-qrcode-examples/issues"
+  },
+  "homepage": "https://github.com/mebjas/html5-qrcode-examples#readme",
+  "dependencies": {
+    "html5-qrcode": "^1.0.9"
+  }
+}

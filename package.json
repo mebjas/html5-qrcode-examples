@@ -18,6 +18,6 @@
   "homepage": "https://github.com/mebjas/html5-qrcode-examples#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "html5-qrcode": "^1.0.9"
+    "html5-qrcode": "^1.1.1"
   }
 }
